@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: AleaFancyPlates
+## Notes: AleaFancyPlates
+## Author: Alea
+## SavedVariables: Alea_TESTDB
+## Version: 94
+## OptionalDeps: Alea_TestAddon
+
+load.xml
